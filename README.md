@@ -2,7 +2,7 @@
 
 This is a basic httpform server using golang 
 
-## Starting Webserver
+## Building Webserver
 `git clone the repo`
 
 `cd into the cloned repository`
@@ -11,10 +11,14 @@ This is a basic httpform server using golang
 
 `mv form.html && index.html ./static`
 
+Run to build server binary
 ```go
 go build
 ```
 
+## Starting Webserver
+
+Run to start webserver
 ```go
 ./go-server
 ```
