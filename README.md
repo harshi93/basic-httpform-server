@@ -15,7 +15,7 @@ This is a basic httpform server using golang
 go build
 ```
 
-```
+```go
 ./go-server
 ```
 
